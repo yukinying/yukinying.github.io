@@ -1,1 +1,1 @@
-See [Extensions](extension/index.html) for a list of chrome extensions that I have built. 
+See [Extensions](extension) for a list of chrome extensions that I have built. 
