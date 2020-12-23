@@ -14,6 +14,6 @@ Permission required:
 Privacy policy:
 
 - Data are only collected when it is required for the functionality provided. 
-- All data are collected via the chrome extension, via the chrome extension APIs.
+- All data are collected inside the chrome extension, and send to Google API directly. 
 - No data is stored by the extension. 
 - No data is shared with third parties. 
